@@ -1,0 +1,46 @@
+/* General Reset and Box-Sizing */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Navbar Section */
+.section-navbar {
+  background-color: #f8f8f8; /* Light gray background */
+  border-bottom: 1px solid #e7e7e7; /* Light border at the bottom */
+}
+
+.top_txt {
+  padding: 10px 0; /* Vertical padding */
+}
+
+.head.container {
+  display: flex;
+  justify-content: space-between; /* Space between the two divs */
+  align-items: center; /* Vertically align items in the center */
+  max-width: 1200px; /* Maximum width of the container */
+  margin: 0 auto; /* Center the container */
+  padding: 0 20px; /* Horizontal padding */
+}
+
+.head_txt p {
+  font-size: 14px; /* Font size */
+  color: #333; /* Dark text color */
+}
+
+.sing_in_up a {
+  margin-left: 15px; /* Space between links */
+  text-decoration: none; /* Remove underline */
+  font-size: 14px; /* Font size */
+  color: #007bff; /* Link color (blue) */
+  transition: color 0.3s; /* Smooth color transition */
+}
+
+.sing_in_up a:hover {
+  color: #0056b3; /* Darker blue on hover */
+}

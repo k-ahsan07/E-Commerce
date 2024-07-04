@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Microsoft Surface Laptop 3",
+      "category": "Computers",
+      "brand": "HP",
+      "price": 120999,
+      "stock": 50,
+      "description": "Microsoft Surface Laptop 3 Core i5 10th Gen, 8GB RAM, 256GB SSD, 13.5″ Touch Screen LED, Windows 10.",
+      "image": "./images/laptop.png"
+    },
+    {
+      "id": 2,
+      "name": "Infinix GT 20 Pro 5G",
+      "category": "Mobiles",
+      "brand": "Infinix",
+      "price": 101762,
+      "stock": 100,
+      "image": "./images/mobiles.png",
+      "description": "Infinix GT 20 Pro 5G: 12GB RAM, 256GB Storage | 108MP Triple Camera | 5000mAh Battery."
+    },
+    {
+      "id": 3,
+      "name": "APPLE AIRPODS",
+      "category": "Audio",
+      "brand": "SoundBeats",
+      "price": 4999,
+      "stock": 30,
+      "image": "./images/headphone.png",
+      "description": "High-quality wireless headphones with over-ear design, 20 hours of battery life, and a sleek black color."
+    },
+    {
+      "id": 4,
+      "name": "Digital Watch",
+      "category": "Wearables",
+      "brand": "FitTech",
+      "price": 3999,
+      "stock": 20,
+      "image": "./images/watch.png",
+      "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
+    },
+    {
+      "id": 4,
+      "name": "HP Elitebook",
+      "category": "Computers",
+      "brand": "HP",
+      "price": 37999,
+      "stock": 50,
+      "description": "HP Elitebook MT42- AMD PRO A8 8600B- 8GB RAM- 256GB SSD+500GB HDD.",
+      "image": "./images/laptop1.png"
+    },
+    {
+      "id": 5,
+      "name": "Apple Iphone 15 Pro Max",
+      "category": "Mobiles",
+      "brand": "Apple",
+      "price": 244999,
+      "stock": 100,
+      "image": "./images/mobile1.png",
+      "description": "Apple Iphone 15 Pro Max - 6.7 Inch Display - factory locked (JV) - 1 Year Official Warranty."
+    },
+    {
+      "id": 6,
+      "name": "Edifier X5",
+      "category": "Audio",
+      "brand": "Edifier",
+      "price": 6999,
+      "stock": 60,
+      "image": "./images/headphone1.png",
+      "description": "Edifier X5 Lite Bluetooth Earbuds True Wireless Headphones, in-Ear Earphones with Dual Microphones & Charging Case."
+    },
+    {
+      "id": 4,
+      "name": "Digital Watch",
+      "category": "Wearables",
+      "brand": "FitTech",
+      "price": 8999,
+      "stock": 20,
+      "image": "./images/watch1.png",
+      "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
+    }
+
+  ]
